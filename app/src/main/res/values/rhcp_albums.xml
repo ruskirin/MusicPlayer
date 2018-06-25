@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--album 1-->
+    <string name="rhcp_album_californication"> Californication </string>
+    <string name="rhcp_californication_1">Around The World</string>
+    <string name="rhcp_californication_2">Parallel Universe</string>
+    <string name="rhcp_californication_3">Scar Tissue</string>
+    <string name="rhcp_californication_4">Otherside</string>
+    <string name="rhcp_californication_5">Get On Top</string>
+    <string name="rhcp_californication_6">Californication</string>
+    <string name="rhcp_californication_7">Easily</string>
+    <string name="rhcp_californication_8">Porcelain</string>
+    <string name="rhcp_californication_9">Emit Remmus</string>
+    <string name="rhcp_californication_10">I Like Dirt</string>
+    <string name="rhcp_californication_11">This Velvet Glove</string>
+    <string name="rhcp_californication_12">Savior</string>
+    <string name="rhcp_californication_13">Purple Stain</string>
+    <string name="rhcp_californication_14">Right On Time</string>
+    <string name="rhcp_californication_15">Road Trippin\'</string>
+
+    <!--album 2-->
+    <string name="rhcp_album_stadium">Stadium Arcadium</string>
+    <string name="rhcp_stadium_1">Dani California</string>
+    <string name="rhcp_stadium_2">Snow ((Hey Oh))</string>
+    <string name="rhcp_stadium_3">Charlie</string>
+    <string name="rhcp_stadium_4">Stadium Arcadium</string>
+    <string name="rhcp_stadium_5">Hump De Bump</string>
+    <string name="rhcp_stadium_6">She\'s Only 18</string>
+    <string name="rhcp_stadium_7">Slow Cheetah</string>
+    <string name="rhcp_stadium_8">Torture Me</string>
+    <string name="rhcp_stadium_9">Strip My Mind</string>
+    <string name="rhcp_stadium_10">Especially In Michigan</string>
+    <string name="rhcp_stadium_11">Warlocks</string>
+    <string name="rhcp_stadium_12">C\'mon Girl</string>
+    <string name="rhcp_stadium_13">Wet Sand</string>
+    <string name="rhcp_stadium_14">Hey</string>
+    <string name="rhcp_stadium_15">Desecration Smile</string>
+    <string name="rhcp_stadium_16">Tell Me Baby</string>
+    <string name="rhcp_stadium_17">Hard To Concentrate</string>
+    <string name="rhcp_stadium_18">21st Century</string>
+    <string name="rhcp_stadium_19">She Looks To Me</string>
+    <string name="rhcp_stadium_20">Readymade</string>
+    <string name="rhcp_stadium_21">If</string>
+    <string name="rhcp_stadium_22">Make You Feel Better</string>
+    <string name="rhcp_stadium_23">Animal Bar</string>
+    <string name="rhcp_stadium_24">So Much I</string>
+    <string name="rhcp_stadium_25">Storm In A Teacup</string>
+    <string name="rhcp_stadium_26">We Believe</string>
+    <string name="rhcp_stadium_27">Turn It Again</string>
+    <string name="rhcp_stadium_28">Death Of A Martian</string>
+
+    <!--album 3-->
+    <string name="rhcp_album_getaway">The Getaway</string>
+    <string name="rhcp_getaway_1">The Getaway</string>
+    <string name="rhcp_getaway_2">Dark Necessities</string>
+    <string name="rhcp_getaway_3">The Longest Wave</string>
+    <string name="rhcp_getaway_4">Goodbye Angels</string>
+    <string name="rhcp_getaway_5">Sick Love</string>
+    <string name="rhcp_getaway_6">Go Robot</string>
+    <string name="rhcp_getaway_7">Feasting On The Flowers</string>
+    <string name="rhcp_getaway_8">Detroit</string>
+    <string name="rhcp_getaway_9">This Ticonderoga</string>
+    <string name="rhcp_getaway_10">Encore</string>
+    <string name="rhcp_getaway_11">The Hunter</string>
+    <string name="rhcp_getaway_12">Dreams Of A Samurai</string>
+</resources>

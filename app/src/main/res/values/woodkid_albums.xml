@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--album 1-->
+    <string name="woodkid_album_golden">The Golden Age</string>
+    <string name="woodkid_golden_1">The Golden Age</string>
+    <string name="woodkid_golden_2">Run Boy Run</string>
+    <string name="woodkid_golden_3">The Great Escape</string>
+    <string name="woodkid_golden_4">Boat Song</string>
+    <string name="woodkid_golden_5">I Love You</string>
+    <string name="woodkid_golden_6">The Shore</string>
+    <string name="woodkid_golden_7">Ghost Lights</string>
+    <string name="woodkid_golden_8">Shadows</string>
+    <string name="woodkid_golden_9">Stabat Mater</string>
+    <string name="woodkid_golden_10">Conquest Of Spaces</string>
+    <string name="woodkid_golden_11">Falling</string>
+    <string name="woodkid_golden_12">Where I Live</string>
+    <string name="woodkid_golden_13">Iron</string>
+    <string name="woodkid_golden_14">The Other Side</string>
+
+    <!--album 2-->
+    <string name="woodkid_album_desierto">Desierto</string>
+    <string name="woodkid_desierto_1">Land Of All</string>
+    <string name="woodkid_desierto_2">The Frontier</string>
+    <string name="woodkid_desierto_3">Shoot Them Down</string>
+    <string name="woodkid_desierto_4">Tracker</string>
+    <string name="woodkid_desierto_5">Jump</string>
+    <string name="woodkid_desierto_6">The Ridge</string>
+    <string name="woodkid_desierto_7">Dusk Talks</string>
+    <string name="woodkid_desierto_8">False Hopes</string>
+    <string name="woodkid_desierto_9">Flare Gun</string>
+    <string name="woodkid_desierto_10">Web Of Thorns</string>
+    <string name="woodkid_desierto_11">Sam And Moises</string>
+    <string name="woodkid_desierto_12">Que Te Mate El Desierto</string>
+</resources>

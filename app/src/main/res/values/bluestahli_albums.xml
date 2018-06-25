@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--album 1-->
+    <string name="bluestahli_album_antisleep1">Antisleep Vol. 01</string>
+    <string name="bluestahli_antisleep1_1">Overklock</string>
+    <string name="bluestahli_antisleep1_2">88 Rounds Per Minute</string>
+    <string name="bluestahli_antisleep1_3">Shotgun Senorita</string>
+    <string name="bluestahli_antisleep1_4">Regret</string>
+    <string name="bluestahli_antisleep1_5">Accelerant</string>
+    <string name="bluestahli_antisleep1_6">High Heeled Low Life</string>
+    <string name="bluestahli_antisleep1_7">Doublequick</string>
+    <string name="bluestahli_antisleep1_8">High Roller Mojo</string>
+    <string name="bluestahli_antisleep1_9">Mystique</string>
+    <string name="bluestahli_antisleep1_10">Premeditated</string>
+    <string name="bluestahli_antisleep1_11">The Ultimate</string>
+    <string name="bluestahli_antisleep1_12">Hit Me</string>
+    <string name="bluestahli_antisleep1_13">Shiny</string>
+    <string name="bluestahli_antisleep1_14">East</string>
+    <string name="bluestahli_antisleep1_15">Disco Punks On Jolt</string>
+    <string name="bluestahli_antisleep1_16">Leadfoot Getaway</string>
+    <string name="bluestahli_antisleep1_17">Bulletproof</string>
+    <string name="bluestahli_antisleep1_18">The Perfect Heist</string>
+
+    <!--album 2-->
+    <string name="bluestahli_album_antisleep2">Antisleep Vol. 02</string>
+    <string name="bluestahli_antisleep2_1">Let\'s Go</string>
+    <string name="bluestahli_antisleep2_2">Blast Action</string>
+    <string name="bluestahli_antisleep2_3">Trash Glamour Rock Chick</string>
+    <string name="bluestahli_antisleep2_4">So So Bad</string>
+    <string name="bluestahli_antisleep2_5">Smackdown</string>
+    <string name="bluestahli_antisleep2_6">Rapid Fire</string>
+    <string name="bluestahli_antisleep2_7">Jet Set</string>
+    <string name="bluestahli_antisleep2_8">Jackhammer Manifesto</string>
+    <string name="bluestahli_antisleep2_9">Kiss Kiss Bang Bang</string>
+    <string name="bluestahli_antisleep2_10">Glitterati</string>
+    <string name="bluestahli_antisleep2_11">Railgun</string>
+    <string name="bluestahli_antisleep2_12">Vegas Baby</string>
+    <string name="bluestahli_antisleep2_13">Fierce Pop Starlet</string>
+    <string name="bluestahli_antisleep2_14">Dragstrip Burnout</string>
+    <string name="bluestahli_antisleep2_15">Slick</string>
+
+    <!--album 3-->
+    <string name="bluestahli_album_thedevil">The Devil</string>
+    <string name="bluestahli_thedevil_1">The Beginning</string>
+    <string name="bluestahli_thedevil_2">Not Over Til We Say So</string>
+    <string name="bluestahli_thedevil_3">Armageddon</string>
+    <string name="bluestahli_thedevil_4">Down In Flames</string>
+    <string name="bluestahli_thedevil_5">Enemy</string>
+    <string name="bluestahli_thedevil_6">Ready Aim Fire</string>
+    <string name="bluestahli_thedevil_7">Rockstar</string>
+    <string name="bluestahli_thedevil_8">The Fall</string>
+    <string name="bluestahli_thedevil_9">Shoot Em Up</string>
+    <string name="bluestahli_thedevil_10">You\'ll Get What\'s Coming</string>
+    <string name="bluestahli_thedevil_11">The Devil</string>
+    <string name="bluestahli_thedevil_12">Demon</string>
+
+    <!-- TEMPLATE
+    <string name=""></string>
+    <string name="_1"></string>
+    <string name="_2"></string>
+    <string name="_3"></string>
+    <string name="_4"></string>
+    <string name="_5"></string>
+    <string name="_6"></string>
+    <string name="_7"></string>
+    <string name="_8"></string>
+    <string name="_9"></string>
+    <string name="_10"></string>
+    <string name="_11"></string>
+    <string name="_12"></string>
+    <string name="_13"></string>
+    <string name="_14"></string>
+    <string name="_15"></string>
+    <string name="_16"></string>
+    <string name="_17"></string>
+    -->
+</resources>

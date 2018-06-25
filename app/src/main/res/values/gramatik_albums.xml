@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--album 1-->
+    <string name="gramatik_album_beats">Beatz And Pieces Vol. 1 </string>
+    <string name="gramatik_beats_1">DreamBIG</string>
+    <string name="gramatik_beats_2">On The Boardwalk</string>
+    <string name="gramatik_beats_3">While I Was Playin\' Fair</string>
+    <string name="gramatik_beats_4">So Much For Love</string>
+    <string name="gramatik_beats_5">Good Evening Mr. Hitchcock</string>
+    <string name="gramatik_beats_6">Skylight</string>
+    <string name="gramatik_beats_7">Like You Do</string>
+    <string name="gramatik_beats_8">Portorose In July</string>
+    <string name="gramatik_beats_9">Somebody</string>
+    <string name="gramatik_beats_10">The Drink Is Called Rakija</string>
+    <string name="gramatik_beats_11">Make You Better</string>
+    <string name="gramatik_beats_12">Is It Over</string>
+    <string name="gramatik_beats_13">Happiness On A Leash</string>
+    <string name="gramatik_beats_14">Moar Jive</string>
+    <string name="gramatik_beats_15">Friday</string>
+    <string name="gramatik_beats_16">The Monolith</string>
+
+    <!--album 2-->
+    <string name="gramatik_album_epigram">Epigram</string>
+    <string name="gramatik_epigram_1">Tempus Illusio (Intro)</string>
+    <string name="gramatik_epigram_2">Satoshi Nakamoto</string>
+    <string name="gramatik_epigram_3">War Of The Currents</string>
+    <string name="gramatik_epigram_4">Native Son</string>
+    <string name="gramatik_epigram_5">Native Son Prequel</string>
+    <string name="gramatik_epigram_6">Room 3327</string>
+    <string name="gramatik_epigram_7">Eat Liver!</string>
+    <string name="gramatik_epigram_8">Back To The Future</string>
+    <string name="gramatik_epigram_9">Corporate Demons</string>
+    <string name="gramatik_epigram_10">Anima Mundi</string>
+
+    <!--album 3-->
+    <string name="gramatik_album_street">Street Bangerz Vol. 3 </string>
+    <string name="gramatik_street_1">Enter The Realm (Intro)</string>
+    <string name="gramatik_street_2">A Bunch Of Questions</string>
+    <string name="gramatik_street_3">Tranquilo</string>
+    <string name="gramatik_street_4">Cool Thieves</string>
+    <string name="gramatik_street_5">Dungeon Sound</string>
+    <string name="gramatik_street_6">Talk That Slang</string>
+    <string name="gramatik_street_7">The Swing Of Justice</string>
+    <string name="gramatik_street_8">Spoiler Alert</string>
+    <string name="gramatik_street_9">Flip The Script</string>
+    <string name="gramatik_street_10">Muy Tranquilo</string>
+    <string name="gramatik_street_11">On The Run</string>
+    <string name="gramatik_street_12">In This Whole World</string>
+    <string name="gramatik_street_13">The Anthem</string>
+    <string name="gramatik_street_14">Cirkus</string>
+    <string name="gramatik_street_15">Victory</string>
+    <string name="gramatik_street_16">Got To Be In All The Way</string>
+    <string name="gramatik_street_17">Balkan Express</string>
+    <string name="gramatik_street_18">Adriatic Summer Nights</string>
+    <string name="gramatik_street_19">Oriental Job</string>
+    <string name="gramatik_street_20">Walkin' Down The Street</string>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--album 1-->
+    <string name="celldweller_album_celldweller">Celldweller</string>
+    <string name="celldweller_celldweller_1">Cell #1</string>
+    <string name="celldweller_celldweller_2">Switchback</string>
+    <string name="celldweller_celldweller_3">Stay With Me (Unlikely)</string>
+    <string name="celldweller_celldweller_4">The Last Firstborn</string>
+    <string name="celldweller_celldweller_5">Under My Feet</string>
+    <string name="celldweller_celldweller_6">I Believe You</string>
+    <string name="celldweller_celldweller_7">Frozen</string>
+    <string name="celldweller_celldweller_8">Symbiont</string>
+    <string name="celldweller_celldweller_9">Afraid This Time</string>
+    <string name="celldweller_celldweller_10">Fadeaway</string>
+    <string name="celldweller_celldweller_11">Cell #2</string>
+    <string name="celldweller_celldweller_12">So Sorry To Say</string>
+    <string name="celldweller_celldweller_13">Own Little World</string>
+    <string name="celldweller_celldweller_14">Unlikely (Stay With Me)</string>
+    <string name="celldweller_celldweller_15">One Good Reason</string>
+    <string name="celldweller_celldweller_16">The Stars Of Orion</string>
+    <string name="celldweller_celldweller_17">Cell #3</string>
+    <string name="celldweller_celldweller_18">Welcome To The End</string>
+
+    <!--album 2-->
+    <string name="celldweller_album_soundtrack2">Soundtrack For The Voices In My Head Vol. 02</string>
+    <string name="celldweller_soundtrack2_1">First Person Shooter</string>
+    <string name="celldweller_soundtrack2_2">Earth Scraper</string>
+    <string name="celldweller_soundtrack2_3">The Wings Of Icarus</string>
+    <string name="celldweller_soundtrack2_4">Shutemdown</string>
+    <string name="celldweller_soundtrack2_5">Senorita Bonita</string>
+    <string name="celldweller_soundtrack2_6">The Sentinel</string>
+    <string name="celldweller_soundtrack2_7">Distants</string>
+    <string name="celldweller_soundtrack2_8">How This All Began</string>
+    <string name="celldweller_soundtrack2_9">Scandroid</string>
+    <string name="celldweller_soundtrack2_10">Pulsar</string>
+    <string name="celldweller_soundtrack2_11">Solid State Playmate</string>
+    <string name="celldweller_soundtrack2_12">Empyrean</string>
+    <string name="celldweller_soundtrack2_13">Chronus</string>
+    <string name="celldweller_soundtrack2_14">Heart-Break</string>
+    <string name="celldweller_soundtrack2_15">Elara</string>
+    <string name="celldweller_soundtrack2_16">Awakening</string>
+    <string name="celldweller_soundtrack2_17">The End</string>
+    <string name="celldweller_soundtrack2_18">Venus</string>
+    <string name="celldweller_soundtrack2_19">Adrift On Celestial Seas</string>
+
+    <!--album 3-->
+    <string name="celldweller_album_endofanempire">End Of An Empire</string>
+    <string name="celldweller_endofanempire_1">Faction 01</string>
+    <string name="celldweller_endofanempire_2">New Elysium</string>
+    <string name="celldweller_endofanempire_3">End Of An Empir</string>
+    <string name="celldweller_endofanempire_4">Heart On</string>
+    <string name="celldweller_endofanempire_5">Just Like You</string>
+    <string name="celldweller_endofanempire_6">Lost In Time</string>
+    <string name="celldweller_endofanempire_7">Faction 06</string>
+    <string name="celldweller_endofanempire_8">Good L_ck (Yo_\'re F_cked)</string>
+    <string name="celldweller_endofanempire_9">Jericho</string>
+    <string name="celldweller_endofanempire_10">Faction 13</string>
+    <string name="celldweller_endofanempire_11">Breakout</string>
+    <string name="celldweller_endofanempire_12">Down To Earth</string>
+    <string name="celldweller_endofanempire_13">Precious One</string>
+    <string name="celldweller_endofanempire_14">G4M3 0V3R</string>
+</resources>

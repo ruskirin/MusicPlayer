@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bluestahli_name">Blue Stahli</string>
+    <string name="celldweller_name">Celldweller</string>
+    <string name="gramatik_name">Gramatik</string>
+    <string name="redhotcp_name">Red Hot Chili Peppers</string>
+    <string name="woodkid_name">Woodkid</string>
+
+    <!--Synopsis from http://www.bluestahli.com/site/about/-->
+    <string name="bluestahli_bio">
+        There is no such thing as a guilty pleasure in Bret\’s world, and the music of Blue Stahli
+        borrows from an untold number of disparate genres. The resulting blend is aggressively
+        beautiful, vividly cinematic, and, above all, fun. Whether by furious guitar riffs,
+        infectious vocal hooks, slick dance-floor beats, or atmospheric electronics, Blue Stahli
+        is hellbent on making an emotional connection with the listener.
+    </string>
+    <!--Synopsis from http://tvtropes.org/pmwiki/pmwiki.php/Music/Celldweller-->
+    <string name="celldweller_bio">
+        Celldweller\'s music is incredibly diverse and multifaceted, and is commonly described as
+        a fusion of Heavy Metal, trance, drum and bass, dubstep, and industrial, with elements
+        taken from many other heavy music genres. The project has also been classified as Nu Metal
+        and gains its pride as one of the Ensemble Darkhorses of the genre. Celldweller\'s music has
+        frequently appeared in television shows, movies, and video games, more prominently appearing
+        in Dead Rising 2, Need for Speed, and the 3rd season of Killer Instinct.
+    </string>
+    <!--Synopsis from https://www.last.fm/music/Gramatik/+wiki-->
+    <string name="gramatik_bio">
+        In 2006, he and 2 of his friends, fellow MC\'s, released their debut hip-hop album as a
+        group called 5th Element, which was critically acclaimed throughout the country as one of
+        the best hip-hop albums in Slovenia. After the album, Gramatik felt hip-hop just wasn\'t
+        enough, that he was limiting himself with doing only one genre while he enjoyed listening
+        to so many of them so he started producing House, Techno, Breakbeat, Electro, Drum'n'Bass,
+        basically any genre that he liked which was anything that evolved from Blues, Jazz, Soul
+        and Funk, as those ''father genres'' were all embedded deep in his style, whatever he would
+        do. He realized that to him, music is much bigger than a genre name and their specific
+        categorization, it's all about embracing what moves you and rejecting what doesn't.
+    </string>
+    <!-- Synopsis from https://www.rollingstone.com/music/artists/red-hot-chili-peppers/biography-->
+    <string name="redhotcp_bio">
+        Formed in the wake of the L.A. punk scene, the Red Hot Chili Peppers combined funk and punk
+        with macho, sexed-up lyrics. (One early track was called "Party on Your Pussy"). The result
+        was a high-octane sound that made the quintet alt-rock favorites in the Eighties, then
+        superstars in the Nineties. But as the Chili Peppers aged, their songs became more laid-back
+        and lyrical, and the band went from flesh-baring firecrackers (a 1992 Rolling Stone cover
+        featured them naked) to respected veterans.
+    </string>
+    <!--Synopsis from https://www.allmusic.com/artist/woodkid-mn0002814238/biography-->
+    <string name="woodkid_bio">
+        Stepping out from behind the camera, Yoann Lemoine became one of the few music video
+        directors to embark on a recording career of his own, with a number of releases under the
+        guise of Woodkid … His self-directed video for "Run Boy Run" won Lemoine an MVPA Award for
+        Best Director of the Year, and a Grammy nomination for Best Music Video. His debut album as
+        Woodkid, The Golden Age, arrived in March 2013. The album received largely enthusiastic
+        reviews, and fared well commercially, rising to number two on the French album charts, and
+        going Top Ten in Belgium, Germany, and Switzerland.
+    </string>
+</resources>
